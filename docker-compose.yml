@@ -1,0 +1,26 @@
+services:
+  n8n:
+    build: .
+    container_name: n8n-bepharma
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=admin
+      - N8N_BASIC_AUTH_PASSWORD=TuPasswordFuerte123
+      - GENERIC_TIMEZONE=America/Mexico_City
+      - GROQ_API_KEY=gsk_TU_API_KEY_AQUI
+      - PYTHONUNBUFFERED=1
+      - LANGCHAIN_TRACING_V2=false
+    volumes:
+      # 🔹 Solo monta la raíz del proyecto una vez
+      - "D:/bp-analytics:/project"
+      # 🔹 Mantén los datos de n8n persistentes
+      - "D:/bp-analytics/n8n_data:/home/node/.n8n"
+    restart: unless-stopped
+
+volumes:
+  n8n_data:

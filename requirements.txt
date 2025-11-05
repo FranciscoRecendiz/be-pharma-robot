@@ -1,7 +1,27 @@
+# Core
 pandas
 numpy
 openpyxl
-python-dotenv
+aiohttp
+requests
+tenacity
+nest_asyncio
+beautifulsoup4
+unidecode
 scikit-learn
-jupyter
 matplotlib
+python-dotenv
+jupyter
+
+# LangChain + Groq
+langchain
+langchain_groq
+
+# DuckDuckGo Search (elige uno)
+duckduckgo-search>=6.3.0
+ddgs
+
+tldextract
+rapidfuzz
+chardet
+lxml
