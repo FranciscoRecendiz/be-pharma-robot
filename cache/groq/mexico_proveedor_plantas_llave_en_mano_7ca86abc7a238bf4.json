@@ -1,0 +1,42 @@
+[
+  {
+    "nombre_empresa": "Laboratorios Liomont",
+    "pais": "México",
+    "giro": "proveedor (plantas llave en mano)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Laboratorios Sanfer",
+    "pais": "México",
+    "giro": "proveedor (plantas llave en mano)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Grupo Ferrer",
+    "pais": "México",
+    "giro": "proveedor (plantas llave en mano)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Laboratorios Pisa",
+    "pais": "México",
+    "giro": "proveedor (plantas llave en mano)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Grupo Chatellier",
+    "pais": "México",
+    "giro": "proveedor (plantas llave en mano)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  }
+]

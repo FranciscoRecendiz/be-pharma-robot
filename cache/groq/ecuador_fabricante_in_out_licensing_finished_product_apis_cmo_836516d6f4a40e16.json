@@ -1,0 +1,13 @@
+[
+  {
+    "nombre_empresa": "Nombre de la empresa",
+    "pais": "Ecuador",
+    "giro": "fabricante (in- /out-licensing, finished product, apis, cmo)",
+    "sitio_web": "URL de la empresa",
+    "sector_principal": "fabricante_medicamentos|fabricante_suplementos|cdmo",
+    "indicadores_exportacion": "Evidencia de exportación o internacionalización",
+    "fuente": "Fuente de la información",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (in- /out-licensing, finished product, apis, cmo)"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_empresa": "CURALIFE",
+    "pais": "México",
+    "giro": "out-licensing (food supplements)",
+    "fuente": "https://bepharma.org/BPV2022+marzo-abril+empresas+Inscritas+Esp.pdf",
+    "sector_principal": "Fabricante de medicamentos y suplementos",
+    "indicadores_exportacion": "Out-licensing de suplementos alimenticios"
+  },
+  {
+    "nombre_empresa": "Difass International",
+    "pais": "México",
+    "giro": "out-licensing (food supplements)",
+    "fuente": "https://bepharma.org/BPV2022+marzo-abril+empresas+Inscritas+Esp.pdf",
+    "sector_principal": "Fabricante de medicamentos y suplementos",
+    "indicadores_exportacion": "Out-licensing de suplementos alimenticios y dispositivos médicos"
+  },
+  {
+    "nombre_empresa": "Capricorn Life Sciences",
+    "pais": "México",
+    "giro": "out-licensing (food supplements)",
+    "fuente": "https://www.prnewswire.com/news-releases/leading-pharmaceutical-and-specialty-chemical-solution-providers-highlight-innovation-at-cphi-north-america-and-informex-2017-300454063.html",
+    "sector_principal": "CDMO/CMO farmacéutico",
+    "indicadores_exportacion": "Out-licensing de suplementos alimenticios y dispositivos médicos"
+  }
+]

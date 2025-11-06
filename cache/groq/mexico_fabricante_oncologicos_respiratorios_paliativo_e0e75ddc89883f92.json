@@ -1,0 +1,42 @@
+[
+  {
+    "nombre_empresa": "Laboratorios Sanfer",
+    "pais": "México",
+    "giro": "fabricante (oncológicos, respiratorios, paliativo)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Laboratorios PiSA",
+    "pais": "México",
+    "giro": "fabricante (oncológicos, respiratorios, paliativo)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Grupo Ferrer",
+    "pais": "México",
+    "giro": "fabricante (oncológicos, respiratorios, paliativo)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Laboratorios Senosiain",
+    "pais": "México",
+    "giro": "fabricante (oncológicos, respiratorios, paliativo)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Grupo Chemo",
+    "pais": "México",
+    "giro": "fabricante (oncológicos, respiratorios, paliativo)",
+    "fuente": "Investigación propia",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  }
+]

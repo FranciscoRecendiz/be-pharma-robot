@@ -1,0 +1,50 @@
+[
+  {
+    "nombre_empresa": "Novag Infancia",
+    "pais": "México",
+    "giro": "fabricación y distribución",
+    "fuente": "https://novag.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Serral",
+    "pais": "México",
+    "giro": "fabricación y distribución",
+    "fuente": "http://serral.com.mx/serral/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Laboratorios Serral",
+    "pais": "México",
+    "giro": "fabricación y distribución",
+    "fuente": "https://gruposomar.com/laboratorios-serral/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "GCAB Company",
+    "pais": "México",
+    "giro": "fabricación y distribución",
+    "fuente": "https://gcabcompany.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Apotex",
+    "pais": "México",
+    "giro": "fabricación y distribución",
+    "fuente": "https://www.apotex.com/mx/es/about-us/nuestras-operaciones",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Internacional Farmacéutica",
+    "pais": "México",
+    "giro": "fabricación y distribución",
+    "fuente": "https://www.comerciomexico.com/proveedores/internacional-farmaceutica.html",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  }
+]

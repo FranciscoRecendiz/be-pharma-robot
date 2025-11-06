@@ -1,0 +1,122 @@
+[
+  {
+    "nombre_empresa": "Russek",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://russek.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Bioresearch de México",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://bioresearch.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "ANAFAM",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://anafam.org.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "PiSA",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://www.pisa.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Grupo Biomep",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://grupobiomep.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Laboratorios Servet",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://labservet.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Laboratorios Best",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "http://www.laboratoriosbest.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Novag Infancia",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://novag.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Landsteiner Scientific",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://www.landsteiner.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Industrias de Nutracéuticos",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://industriasdenutraceuticos.mx/",
+    "sector_principal": "Nutracéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "GCAB Company",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://gcabcompany.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Biorexen",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://biorexen.com.mx/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "NN Products",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://nnproducts.com.mx/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "DEFSA",
+    "pais": "México",
+    "giro": "CDMO",
+    "fuente": "https://defsalabs.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Suanfarma",
+    "pais": "México",
+    "giro": "CDMO",
+    "fuente": "https://www.suanfarma.com/es/servicios-cdmo/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  }
+]

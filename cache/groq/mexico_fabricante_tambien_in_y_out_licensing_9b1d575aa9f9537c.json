@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_empresa": "Neuland Labs",
+    "pais": "México",
+    "giro": "fabricante (también in- y out-licensing)",
+    "fuente": "https://www.neulandlabs.com/en/insights/stories/what-is-a-cdmo",
+    "sector_principal": "CDMO farmacéuticos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Lupin",
+    "pais": "México",
+    "giro": "fabricante (también in- y out-licensing)",
+    "fuente": "https://www.lupin.com/LMS/what-is-a-cdmo-a-complete-guide-for-pharma-innovators/",
+    "sector_principal": "CDMO farmacéuticos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Ascendia Pharmaceuticals",
+    "pais": "México",
+    "giro": "fabricante (también in- y out-licensing)",
+    "fuente": "https://ascendiacdmo.com/newsroom/2021/06/30/pharmaceutical-cdmos",
+    "sector_principal": "CDMO farmacéuticos",
+    "indicadores_exportacion": "No disponible"
+  }
+]

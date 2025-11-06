@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_empresa": "Nivagen Pharmaceuticals",
+    "pais": "México",
+    "giro": "out-licensing / cdmo",
+    "fuente": "https://nivagen.com/out-licensing/",
+    "sector_principal": "Fabricantes de medicamentos de uso humano (Rx, OTC, genéricos)",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Sakar Healthcare",
+    "pais": "México",
+    "giro": "out-licensing / cdmo",
+    "fuente": "https://www.europharmsmc.org/new-europharm-members/sakar-healthcare",
+    "sector_principal": "CDMO/CMO farmacéuticos (fabricación por contrato, NO investigación)",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "DROMEX",
+    "pais": "México",
+    "giro": "out-licensing / cdmo",
+    "fuente": "https://www.dromex.com/",
+    "sector_principal": "CDMO/CMO farmacéuticos (fabricación por contrato, NO investigación)",
+    "indicadores_exportacion": ""
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "nombre_empresa": "ADL BioPharma",
+    "pais": "Ecuador",
+    "giro": "fabricante (api's)",
+    "sitio_web": "https://adlbiopharma.com/es/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Ofrece servicios CMO para la producción de penicilánicos a terceros",
+    "fuente": "https://adlbiopharma.com/es/fabricacion-de-principios-activos-farmaceuticos-apis/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (api's)"
+  },
+  {
+    "nombre_empresa": "QILU Pharma Spain",
+    "pais": "Ecuador",
+    "giro": "fabricante (api's)",
+    "sitio_web": "https://qilu-pharma.es/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Fabrica más de 100 APIs para salud humana y es el primer fabricante mundial de Cefprozil, Cefepima y Ceftazidima",
+    "fuente": "https://qilu-pharma.es/productos/apis/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (api's)"
+  },
+  {
+    "nombre_empresa": "Lebsa",
+    "pais": "Ecuador",
+    "giro": "fabricante (api's)",
+    "sitio_web": "https://lebsa.es/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Ofrece fabricación y suministro de APIs desde Europa",
+    "fuente": "https://lebsa.es/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (api's)"
+  }
+]

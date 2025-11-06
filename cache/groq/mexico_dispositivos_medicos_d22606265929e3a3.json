@@ -1,0 +1,58 @@
+[
+  {
+    "nombre_empresa": "Laboratorios Corne",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://corne.mx/",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Comercializadora Garmedical",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://www.cgarmedical.com/",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "PiSA",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://www.pisa.com.mx/",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Grupharma",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://grupharma.com.mx/",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Gaba Naturals",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://gabanaturals.com/",
+    "sector_principal": "Fabricante de suplementos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "NN Products",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://nnproducts.com.mx/",
+    "sector_principal": "Fabricante de suplementos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Fitopharma",
+    "pais": "México",
+    "giro": "dispositivos médicos",
+    "fuente": "https://www.fitopharma.mx/",
+    "sector_principal": "Fabricante de suplementos",
+    "indicadores_exportacion": "No disponible"
+  }
+]

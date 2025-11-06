@@ -1,3 +1,5 @@
+version: '3.8'
+
 services:
   n8n:
     build: .
@@ -12,15 +14,24 @@ services:
       - N8N_BASIC_AUTH_USER=admin
       - N8N_BASIC_AUTH_PASSWORD=TuPasswordFuerte123
       - GENERIC_TIMEZONE=America/Mexico_City
-      - GROQ_API_KEY=gsk_TU_API_KEY_AQUI
+      - GROQ_API_KEY=${GROQ_API_KEY}
       - PYTHONUNBUFFERED=1
       - LANGCHAIN_TRACING_V2=false
     volumes:
-      # 🔹 Solo monta la raíz del proyecto una vez
-      - "D:/bp-analytics:/project"
-      # 🔹 Mantén los datos de n8n persistentes
-      - "D:/bp-analytics/n8n_data:/home/node/.n8n"
+      - "./bp-analytics:/project"
+      - "./n8n_data:/home/node/.n8n"
     restart: unless-stopped
 
-volumes:
-  n8n_data:
+  python:
+    build: .
+    container_name: python-bepharma
+    command: python3 /project/src/pipelines/find_companies_daily.py
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    volumes:
+      - "./bp-analytics:/project"
+    depends_on:
+      - n8n
+    restart: unless-stopped
+
+

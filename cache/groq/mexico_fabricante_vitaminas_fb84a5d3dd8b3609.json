@@ -1,0 +1,50 @@
+[
+  {
+    "nombre_empresa": "AdvaCare Pharma",
+    "pais": "México",
+    "giro": "fabricante (vitaminas)",
+    "fuente": "https://www.advacarepharma.com/es/fabricante-de-suplementos-de-vitaminas-y-minerales",
+    "sector_principal": "Suplementos de vitaminas y minerales",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "MARTÍNEZ NIETO, S.A.",
+    "pais": "México",
+    "giro": "fabricante (vitaminas)",
+    "fuente": "https://www.martineznieto.com/es/inicio/",
+    "sector_principal": "Complementos alimenticios y productos de cosmética natural",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Barosa Labs",
+    "pais": "México",
+    "giro": "fabricante (vitaminas)",
+    "fuente": "https://barosalabs.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Natural Vitamins Laboratory",
+    "pais": "México",
+    "giro": "fabricante (vitaminas)",
+    "fuente": "http://nvlabs.com/es/",
+    "sector_principal": "Soluciones para el cuidado de la salud y el bienestar",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "American Vitalab",
+    "pais": "México",
+    "giro": "fabricante (vitaminas)",
+    "fuente": "http://americanvitalab.com/",
+    "sector_principal": "Medicamentos y productos vitamínicos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "CUNSA",
+    "pais": "México",
+    "giro": "fabricante (vitaminas)",
+    "fuente": "https://cunsa.net/es/fabricante-de-vitaminas/",
+    "sector_principal": "Vitaminas",
+    "indicadores_exportacion": ""
+  }
+]

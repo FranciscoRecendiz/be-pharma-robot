@@ -1,0 +1,34 @@
+[
+  {
+    "nombre_empresa": "FangioMed",
+    "pais": "México",
+    "giro": "servicios (logística)",
+    "fuente": "https://www.fangiomed.com.mx/",
+    "sector_principal": "Distribución de medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Logística Cofemex",
+    "pais": "México",
+    "giro": "servicios (logística)",
+    "fuente": "https://logisticacofemex.com/",
+    "sector_principal": "Comercialización de medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Maypo",
+    "pais": "México",
+    "giro": "servicios (logística)",
+    "fuente": "https://maypo.com/servicios/unidad-de-servicios-logisticos",
+    "sector_principal": "Logística para la industria farmacéutica",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Novofarma Service",
+    "pais": "México",
+    "giro": "servicios (logística)",
+    "fuente": "https://www.novofarma.com/",
+    "sector_principal": "Logística para la industria farmacéutica",
+    "indicadores_exportacion": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "nombre_empresa": "GCAB Company",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://gcabcompany.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": "Nacional y exportación"
+  },
+  {
+    "nombre_empresa": "Gaba Naturals",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://gabanaturals.com/",
+    "sector_principal": "Suplementos alimenticios y productos cosméticos",
+    "indicadores_exportacion": "Nacional"
+  },
+  {
+    "nombre_empresa": "Industrias De Nutracéuticos",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://www.industriasdenutraceuticos.mx/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": "Nacional y exportación, FDA"
+  },
+  {
+    "nombre_empresa": "NN Products",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://nnproducts.com.mx/inicio/",
+    "sector_principal": "Suplementos alimenticios y productos naturales",
+    "indicadores_exportacion": "Nacional"
+  },
+  {
+    "nombre_empresa": "Biox",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://biox.com.mx/",
+    "sector_principal": "Suplementos nutricionales y productos para el cuidado de la piel",
+    "indicadores_exportacion": "Nacional"
+  },
+  {
+    "nombre_empresa": "GIBANIBB Corporativo",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://gibanibb.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": "Nacional y exportación"
+  },
+  {
+    "nombre_empresa": "Naturex",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://www.naturex.com.mx/",
+    "sector_principal": "Suplementos alimenticios innovadores",
+    "indicadores_exportacion": "Nacional y exportación"
+  },
+  {
+    "nombre_empresa": "Modern Research Laboratorio",
+    "pais": "México",
+    "giro": "fabricante (suplementos alimenticios)",
+    "fuente": "https://modernresearch.com.mx/",
+    "sector_principal": "Suplementos alimenticios y vitaminas",
+    "indicadores_exportacion": "Nacional"
+  }
+]

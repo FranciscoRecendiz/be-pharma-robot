@@ -1,0 +1,82 @@
+[
+  {
+    "nombre_empresa": "Kemin México",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://www.kemin.com/na/es-mx/home",
+    "sector_principal": "Ingredientes",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Sun Pharma México",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://www.eleconomista.com.mx/empresas/sun-pharma-medicamentos-listas-entregar-enfrenta-obstaculos-logisticos-20250928-779072.html",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Laboratorios Liomont",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://www.quiminet.com/productos/terbinafina-3800726635.htm",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Industrias de Nutracéuticos",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://industriasdenutraceuticos.com/",
+    "sector_principal": "Suplementos alimenticios y nutracéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "GCAB Company",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://gcabcompany.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Biorexen",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://biorexen.com.mx/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Nupromic",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "http://www.nupromic.com.mx/conócenos/",
+    "sector_principal": "Ingredientes funcionales y productos nutracéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Tecnofarma",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://www.bauschhealth.com.mx/tecnofarma/",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "AMSA",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://amsamexico.com.mx/",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Dilameg",
+    "pais": "México",
+    "giro": "proveedor",
+    "fuente": "https://dilameg.mx/",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  }
+]

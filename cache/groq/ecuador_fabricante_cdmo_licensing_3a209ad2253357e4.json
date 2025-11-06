@@ -1,0 +1,24 @@
+[
+  {
+    "nombre_empresa": "Nombre de la Empresa",
+    "pais": "Ecuador",
+    "giro": "fabricante / cdmo / licensing",
+    "sitio_web": "https://www.ejemplo.com",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Participación en CPhI, licenciamiento con empresas de LATAM",
+    "fuente": "Fuente de la información",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante / cdmo / licensing"
+  },
+  {
+    "nombre_empresa": "Otra Empresa",
+    "pais": "Ecuador",
+    "giro": "fabricante / cdmo / licensing",
+    "sitio_web": "https://www.otraempresa.com",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "Miembro de DCAT, exportaciones a países de América Latina",
+    "fuente": "Fuente de la información",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante / cdmo / licensing"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "nombre_empresa": "AbaTec",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "abatec.com.mx",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Equipar, S.A. de C.V.",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "equipar.com.mx",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Marktek",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "marktek.mx",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Lab Shop",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "labshop.com.mx",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Labequim",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "labequim.com.mx",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Roc Instruments",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "rocinstruments.com.mx",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Aspelab",
+    "pais": "México",
+    "giro": "proveedor (equipo laboratorios)",
+    "fuente": "aspelab.com",
+    "sector_principal": "Equipos de laboratorio",
+    "indicadores_exportacion": ""
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "nombre_empresa": "Nombre de la empresa",
+    "pais": "México",
+    "giro": "servicios (registros sanitarios, etc.)",
+    "fuente": "Fuente de la información",
+    "sector_principal": "Sector principal de la empresa",
+    "indicadores_exportacion": "Indicadores de exportación"
+  }
+]

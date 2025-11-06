@@ -1,0 +1,10 @@
+[
+  {
+    "nombre_empresa": "Nombre de la empresa",
+    "pais": "México",
+    "giro": "servicios (calibración y pruebas de laboratorio)",
+    "fuente": "Fuente de la información",
+    "sector_principal": "Sector principal de la empresa (fabricantes de medicamentos, suplementos, CDMO/CMO farmacéuticos)",
+    "indicadores_exportacion": "Indicadores de exportación (si corresponde)"
+  }
+]

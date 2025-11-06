@@ -1,0 +1,10 @@
+[
+  {
+    "nombre_empresa": "Empresa de ejemplo",
+    "pais": "México",
+    "giro": "proveedor api's",
+    "fuente": "Fuente de la información",
+    "sector_principal": "Sector principal de la empresa",
+    "indicadores_exportacion": "Indicadores de exportación de la empresa"
+  }
+]

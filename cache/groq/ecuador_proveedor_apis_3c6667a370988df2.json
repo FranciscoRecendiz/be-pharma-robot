@@ -1,0 +1,13 @@
+[
+  {
+    "nombre_empresa": "Suanfarma",
+    "pais": "Ecuador",
+    "giro": "proveedor (apis)",
+    "sitio_web": "https://www.suanfarma.com",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "No se menciona explícitamente, pero la empresa tiene una división de API Humana con un equipo comercial que ofrece un portafolio atractivo y adaptado a cada cliente",
+    "fuente": "https://www.suanfarma.com/es/apis-humana/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor (apis)"
+  }
+]

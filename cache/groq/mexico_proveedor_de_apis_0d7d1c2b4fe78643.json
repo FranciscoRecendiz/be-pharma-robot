@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_empresa": "Finortex",
+    "pais": "México",
+    "giro": "proveedor de apis",
+    "fuente": "https://www.finortex.com/es/",
+    "sector_principal": "Fabricante de principios activos para la industria farmacéutica",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Chemo",
+    "pais": "México",
+    "giro": "proveedor de apis",
+    "fuente": "https://www.chemopharmaceuticals.com/que-hacemos/apis-y-fds/",
+    "sector_principal": "Fabricante de principios activos farmacéuticos (APIs) y formas farmacéuticas terminadas (FDFs)",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Ascentisfar",
+    "pais": "México",
+    "giro": "proveedor de apis",
+    "fuente": "https://ascentisfar.com/",
+    "sector_principal": "Distribuidor de Principios Activos (APIs), ingredientes y excipientes",
+    "indicadores_exportacion": ""
+  }
+]

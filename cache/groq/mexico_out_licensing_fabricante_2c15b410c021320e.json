@@ -1,0 +1,34 @@
+[
+  {
+    "nombre_empresa": "Herbarium",
+    "pais": "México",
+    "giro": "out-licensing, fabricante",
+    "fuente": "https://bepharma.org/control+de+empresas+BePharma+CDMX+30.08.22.pdf",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Incobra",
+    "pais": "México",
+    "giro": "out-licensing, fabricante",
+    "fuente": "https://bepharma.org/control+de+empresas+BePharma+CDMX+30.08.22.pdf",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Laboratorio Biofarma",
+    "pais": "México",
+    "giro": "out-licensing, fabricante",
+    "fuente": "https://bepharma.org/ListaEmpresas_Esp_29_sept.pdf",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Pharma International",
+    "pais": "México",
+    "giro": "out-licensing, fabricante",
+    "fuente": "https://bepharma.org/ListaEmpresas_Esp_29_sept.pdf",
+    "sector_principal": "Fabricante de medicamentos",
+    "indicadores_exportacion": ""
+  }
+]

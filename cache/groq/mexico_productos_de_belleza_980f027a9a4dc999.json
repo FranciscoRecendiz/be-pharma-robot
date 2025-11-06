@@ -1,0 +1,74 @@
+[
+  {
+    "nombre_empresa": "Grupo Belskin",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://grupobelskin.com/",
+    "sector_principal": "Fabricación y distribución de productos de belleza y cuidado personal",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "GCE Health & Beauty",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://www.gcesaludybelleza.com/",
+    "sector_principal": "Maquila de productos naturales, suplementos alimenticios y productos de belleza",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "NN Products",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://nnproducts.com.mx/",
+    "sector_principal": "Maquila y fabricación de suplementos alimenticios y cosméticos naturales",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Formulabs",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://formulabs.com.mx/",
+    "sector_principal": "Fabricación y maquila de cosméticos y productos de belleza",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Factor Labs",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://factor-labs.com.mx/",
+    "sector_principal": "Venta y manufactura de productos de belleza y cosméticos",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Mex Beauty Factory",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://www.mexbeautyfactory.com/",
+    "sector_principal": "Fabricación, empacado e importación de productos de belleza",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "MGL Maquila",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://www.mglmaquila.com.mx/",
+    "sector_principal": "Fabricación, etiquetado y envasado de productos de belleza y cuidado personal",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Laboratorio de Control Farmacéutico (CONFAR)",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://confar.mx/",
+    "sector_principal": "Servicios de análisis de alta calidad para productos cosméticos, farmacéuticos y de limpieza",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Cosmética Lab Natural",
+    "pais": "México",
+    "giro": "productos de belleza",
+    "fuente": "https://cosmeticalabnatural.mx/",
+    "sector_principal": "Maquila de cosméticos naturales en México",
+    "indicadores_exportacion": "No disponible"
+  }
+]

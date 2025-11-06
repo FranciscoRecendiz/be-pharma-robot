@@ -1,0 +1,18 @@
+[
+  {
+    "nombre_empresa": "Empresa de Medicamentos S.A. de C.V.",
+    "pais": "México",
+    "giro": "fabricante (dispositivos, medicamentos)",
+    "fuente": "https://www.empresa.com",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "Sí"
+  },
+  {
+    "nombre_empresa": "Suplementos Naturales S.A. de C.V.",
+    "pais": "México",
+    "giro": "fabricante (dispositivos, medicamentos)",
+    "fuente": "https://www.suplementos.com",
+    "sector_principal": "Alimenticio",
+    "indicadores_exportacion": "No"
+  }
+]

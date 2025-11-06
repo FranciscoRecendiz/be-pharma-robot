@@ -1,0 +1,66 @@
+[
+  {
+    "nombre_empresa": "Induplast",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://www.induplast.com.mx/",
+    "sector_principal": "Fabricación de envases plásticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "SABIPLAST",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "http://www.sabiplast.com/",
+    "sector_principal": "Fabricación de envases de plástico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Plastimex",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://plastimex.mx/es_mx/",
+    "sector_principal": "Fabricación de envases especializados de PET y PEAD",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Envases y Complementos",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://envasesycomplementos.com.mx/",
+    "sector_principal": "Proveedores de envases",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Distribuidora Plasticmat",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://plasticmat.mx/",
+    "sector_principal": "Distribuidor de envases plásticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Envases Vallejo S.A. de C.V.",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://www.envasa.com.mx/",
+    "sector_principal": "Fabricación de envases de plástico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Proveedora de Envases y Tapas",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://proveedoradeenvases.com/",
+    "sector_principal": "Proveedores de envases y tapas",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Elva Plastic",
+    "pais": "México",
+    "giro": "proveedor (envases)",
+    "fuente": "https://envasesybotellasdeplastico.com.mx/",
+    "sector_principal": "Fabricación de envases de plástico",
+    "indicadores_exportacion": ""
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "nombre_empresa": "Nombre de la Empresa",
+    "pais": "México",
+    "giro": "fabricante, distribuidor, servicios",
+    "fuente": "Fuente de la información",
+    "sector_principal": "Sector principal de la empresa (e.g., farmacéutico, suplementos, etc.)",
+    "indicadores_exportacion": "Información sobre la exportación, si corresponde"
+  }
+]

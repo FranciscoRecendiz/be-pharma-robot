@@ -1,0 +1,42 @@
+[
+  {
+    "nombre_empresa": "Armstrong Laboratorios",
+    "pais": "México",
+    "giro": "fabricante, inv.",
+    "fuente": "https://bepharma.org/cloud/logos/20200227134601.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Athena France",
+    "pais": "México",
+    "giro": "fabricante, inv.",
+    "fuente": "https://bepharma.org/cloud/logos/20200227134601.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "MX Deva Holding",
+    "pais": "México",
+    "giro": "fabricante, inv.",
+    "fuente": "https://002sistem.bepharma.org/logos/20200227134601.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Droguería Ramón González Revilla",
+    "pais": "México",
+    "giro": "fabricante, inv.",
+    "fuente": "https://002sistem.bepharma.org/logos/20200227134601.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Entera Health",
+    "pais": "México",
+    "giro": "fabricante, inv.",
+    "fuente": "https://002sistem.bepharma.org/logos/20200227134601.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  }
+]

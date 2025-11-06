@@ -1,0 +1,12 @@
+langchain
+langchain-groq
+duckduckgo-search
+beautifulsoup4
+requests
+duckduckgo-search>=6.3.0
+ddgs
+aiohttp
+pandas
+tenacity
+langchain_groq
+nest_asyncio

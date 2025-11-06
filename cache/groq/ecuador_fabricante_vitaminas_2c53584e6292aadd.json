@@ -1,0 +1,90 @@
+[
+  {
+    "nombre_empresa": "AdvaCare Pharma",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://www.advacarepharma.com/es/fabricante-de-suplementos",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://www.advacarepharma.com/es/fabricante-de-suplementos",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "Formulaceutics",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://formulaceutics.com/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://formulaceutics.com/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "GEA",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://www.gea.com/es/pharma-healthcare/nutraceuticals/vitamins/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://www.gea.com/es/pharma-healthcare/nutraceuticals/vitamins/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "MARTÍNEZ NIETO, S.A.",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://www.martineznieto.com/es/inicio/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://www.martineznieto.com/es/inicio/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "Efferta",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://efferta.es/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://efferta.es/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "Natural Vitamins Laboratory",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "http://nvlabs.com/es/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "http://nvlabs.com/es/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "CUNSA",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://cunsa.net/es/fabricante-de-vitaminas/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://cunsa.net/es/fabricante-de-vitaminas/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  },
+  {
+    "nombre_empresa": "Barosa Labs",
+    "pais": "Ecuador",
+    "giro": "fabricante (vitaminas)",
+    "sitio_web": "https://barosalabs.com/",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "",
+    "fuente": "https://barosalabs.com/",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante (vitaminas)"
+  }
+]

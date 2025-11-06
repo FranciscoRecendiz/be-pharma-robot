@@ -1,0 +1,24 @@
+[
+  {
+    "nombre_empresa": "Adium Ecuador",
+    "pais": "Ecuador",
+    "giro": "proveedor",
+    "sitio_web": "https://adium.com.ec/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "No se encontraron indicadores de exportación explícitos, pero se menciona un portafolio amplio para ofrecer soluciones terapéuticas innovadoras y de alta calidad",
+    "fuente": "https://adium.com.ec/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor"
+  },
+  {
+    "nombre_empresa": "Farmabion",
+    "pais": "Ecuador",
+    "giro": "proveedor",
+    "sitio_web": "https://www.farmabion.com/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Se menciona que es una empresa farmacéutica líder en el mundo, lo que sugiere posibles operaciones internacionales",
+    "fuente": "https://www.farmabion.com/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor"
+  }
+]

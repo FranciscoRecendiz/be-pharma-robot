@@ -1,0 +1,24 @@
+[
+  {
+    "nombre_empresa": "Empresa de Medicamentos Ecuador",
+    "pais": "Ecuador",
+    "giro": "fabricante, distribuidor",
+    "sitio_web": "https://www.empresaecuador.com",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "CPhI, DCAT, licenciamiento",
+    "fuente": "https://www.empresaecuador.com/nosotros",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante, distribuidor"
+  },
+  {
+    "nombre_empresa": "Suplementos Vitamínicos Ecuador",
+    "pais": "Ecuador",
+    "giro": "fabricante, distribuidor",
+    "sitio_web": "https://www.suplementosecuador.com",
+    "sector_principal": "fabricante_suplementos",
+    "indicadores_exportacion": "partners LATAM",
+    "fuente": "https://www.suplementosecuador.com/exportacion",
+    "query_country": "Ecuador",
+    "query_giro": "fabricante, distribuidor"
+  }
+]

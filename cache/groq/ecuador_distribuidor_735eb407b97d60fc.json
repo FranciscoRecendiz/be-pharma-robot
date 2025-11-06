@@ -1,0 +1,24 @@
+[
+  {
+    "nombre_empresa": "Adium Ecuador",
+    "pais": "Ecuador",
+    "giro": "distribuidor",
+    "sitio_web": "https://adium.com.ec/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "",
+    "fuente": "https://adium.com.ec/",
+    "query_country": "Ecuador",
+    "query_giro": "distribuidor"
+  },
+  {
+    "nombre_empresa": "Neofarmaco Ecuador",
+    "pais": "Ecuador",
+    "giro": "distribuidor",
+    "sitio_web": "https://neofarmaco.com/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "",
+    "fuente": "https://neofarmaco.com/",
+    "query_country": "Ecuador",
+    "query_giro": "distribuidor"
+  }
+]

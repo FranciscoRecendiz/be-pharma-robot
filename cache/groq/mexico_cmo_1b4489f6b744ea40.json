@@ -1,0 +1,82 @@
+[
+  {
+    "nombre_empresa": "Biorexen",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://biorexen.com.mx/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Gaba Naturals",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://gabanaturals.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Neonatural",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://neonatural.com.mx/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Modern Research Laboratorio",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://modernresearch.com.mx/",
+    "sector_principal": "Vitaminas y suplementos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Farmacias Línea Genéricos - Laboratorios Alpharma",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://www.laboratoriosalpharma.com.mx/",
+    "sector_principal": "Medicamentos genéricos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Teva México",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://www.tevamexico.com.mx/",
+    "sector_principal": "Medicamentos genéricos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Novag Infancia",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://novag.mx/",
+    "sector_principal": "Medicamentos genéricos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Dilameg",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://dilameg.mx/",
+    "sector_principal": "Medicamentos genéricos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Tecnofarma",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://www.bauschhealth.com.mx/tecnofarma/",
+    "sector_principal": "Medicamentos genéricos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "AMSA",
+    "pais": "México",
+    "giro": "cmo",
+    "fuente": "https://amsamexico.com.mx/",
+    "sector_principal": "Medicamentos genéricos",
+    "indicadores_exportacion": ""
+  }
+]

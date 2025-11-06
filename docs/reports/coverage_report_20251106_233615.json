@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-06T23:36:15.023687",
+  "saturation_analysis": {
+    "is_saturated": false,
+    "saturation_pct": 50.0,
+    "productivity_ratio": 0.33,
+    "empty_ratio": 0.03,
+    "cache_hit_ratio": 0.0,
+    "duplicate_ratio": 13.57,
+    "recommendations": [
+      "⚠️ Baja productividad: Considera ampliar estrategias de búsqueda",
+      "🔄 Muchos duplicados: Las búsquedas están convergiendo (buena señal)"
+    ]
+  },
+  "density_analysis": {},
+  "gaps": [
+    "Pocos exportadores identificados (17.4% del total)"
+  ],
+  "recommendations": [
+    "Ejecutar más búsquedas",
+    "Ampliar estrategias de búsqueda",
+    "Ejecutar búsquedas complementarias en asociaciones y ferias"
+  ],
+  "summary": {
+    "total_companies": 23,
+    "total_countries": 1,
+    "total_exporters": 4,
+    "avg_confidence": 71.73913043478261
+  }
+}

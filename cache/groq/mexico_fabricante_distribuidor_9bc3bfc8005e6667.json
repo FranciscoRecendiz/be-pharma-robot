@@ -1,0 +1,90 @@
+[
+  {
+    "nombre_empresa": "Químicos WÖHLER",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://quimicoswohler.com/",
+    "sector_principal": "Químicos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "IsaaQuim",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://isaaquim.com/",
+    "sector_principal": "Químicos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Proveedor Plasquim",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://proveedorplasquim.com/",
+    "sector_principal": "Químicos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "QUIMICA SEFIR",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.quimicasefir.com/",
+    "sector_principal": "Químicos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Miirkem",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://miirkem.com.mx/",
+    "sector_principal": "Químicos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Roche México",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.roche.com.mx/",
+    "sector_principal": "Farmacéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Distribución Especializada de Medicamentos",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Fármacos Nacionales",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Fármacos Especializados",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Pharma Plus",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Pharma Tycsa",
+    "pais": "México",
+    "giro": "fabricante -> distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéuticos",
+    "indicadores_exportacion": ""
+  }
+]

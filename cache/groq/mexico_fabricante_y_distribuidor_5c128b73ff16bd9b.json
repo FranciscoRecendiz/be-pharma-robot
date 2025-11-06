@@ -1,0 +1,66 @@
+[
+  {
+    "nombre_empresa": "Ferring Pharmaceuticals México",
+    "pais": "México",
+    "giro": "fabricante y distribuidor",
+    "fuente": "https://ferring.com.mx/nosotros/ferring-en-mexico/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Genomma Lab Internacional",
+    "pais": "México",
+    "giro": "fabricante y distribuidor",
+    "fuente": "https://www.eleconomista.com.mx/opinion/genomma-lab-impulsara-ventas-20250504-757591.html",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Aspen México",
+    "pais": "México",
+    "giro": "fabricante y distribuidor",
+    "fuente": "https://www.sopitas.com/noticias/falsificacion-de-medicamentos-alerta-cofepris-alka-seltzer/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Farmacias Magistrales",
+    "pais": "México",
+    "giro": "fabricante y distribuidor",
+    "fuente": "https://canamo.net/noticias/mexico/importacion-de-cannabis-en-mexico",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Bimeda México",
+    "pais": "México",
+    "giro": "fabricante y distribuidor",
+    "fuente": "https://www.bimeda.mx/",
+    "sector_principal": "Veterinario",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Induplast",
+    "pais": "México",
+    "giro": "fabricante",
+    "fuente": "https://www.induplast.com.mx/",
+    "sector_principal": "Plásticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Mediker",
+    "pais": "México",
+    "giro": "fabricante y distribuidor",
+    "fuente": "https://medikercpm.com/",
+    "sector_principal": "Veterinario",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "ANAFAM",
+    "pais": "México",
+    "giro": "asociación de laboratorios farmacéuticos",
+    "fuente": "https://anafam.org.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  }
+]

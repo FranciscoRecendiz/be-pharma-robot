@@ -1,0 +1,74 @@
+[
+  {
+    "nombre_empresa": "PiSA – Farmacéutica",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://www.pisa.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Laboratorios DEFSA",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://defsalabs.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Suanfarma",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://www.suanfarma.com/es/servicios-cdmo/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Pan Am Farma",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://panamfarma.com/fabricacion-de-medicamentos/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Procaps Group",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://www.businesswire.com/news/home/20210331006012/es",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Industrias de Nutracéuticos",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://www.industriasdenutraceuticos.mx/",
+    "sector_principal": "Nutracéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Biorexen",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://biorexen.com.mx/",
+    "sector_principal": "Nutracéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "GCAB Company",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://gcabcompany.com/",
+    "sector_principal": "Nutracéuticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Grupo Biotvida",
+    "pais": "México",
+    "giro": "servicios",
+    "fuente": "https://grupobiotvida.com/",
+    "sector_principal": "Nutracéuticos",
+    "indicadores_exportacion": ""
+  }
+]

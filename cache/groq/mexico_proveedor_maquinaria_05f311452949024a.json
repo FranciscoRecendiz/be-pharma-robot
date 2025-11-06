@@ -1,0 +1,66 @@
+[
+  {
+    "nombre_empresa": "Inoxmim",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://www.inoxmim.com/blog/inoxmim-mexico/venta-de-maquinaria-industrial-en-mexico/",
+    "sector_principal": "Industria alimentaria",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "MetalBoss",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://www.metalboss.com.mx/",
+    "sector_principal": "Industria alimentaria",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "MTMaquinaria",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://mtmaquinaria.com/",
+    "sector_principal": "Industria alimentaria",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "MYASA",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://myasa.mx/",
+    "sector_principal": "Industria farmacéutica",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Maquitec",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://www.maquitec.com.mx/",
+    "sector_principal": "Industria metalmecánica",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Magama",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://magama.mx/",
+    "sector_principal": "Comercio en general",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Grupo Maquinares México",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://grupomamsa.mx/",
+    "sector_principal": "Industria en general",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Maincasa",
+    "pais": "México",
+    "giro": "proveedor (maquinaria)",
+    "fuente": "https://maincasa.com.mx/",
+    "sector_principal": "Industria en general",
+    "indicadores_exportacion": ""
+  }
+]

@@ -1,16 +1,59 @@
-# Virtual environment
-.venv/
-
-# Data folders no versionadas
-data/raw/
-data/staging/
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Python cache
+# --- ENTORNOS Y CONFIGURACIÓN ---
+.env
+.env.*
+*.env
+.vscode/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
 
-# VS Code settings
-.vscode/
+# --- ENTORNOS VIRTUALES ---
+.venv/
+venv/
+env/
+
+# --- DOCKER Y N8N ---
+n8n_data/
+home/node/.n8n/
+docker-compose.override.yml
+
+# --- DATOS Y RESULTADOS ---
+data/cache/
+data/logs/
+data/registry/
+data/interim/
+data/staging/
+data/external/
+data/raw/
+data/processed/
+CRM_EMPRESAS/
+notebooks/
+models/
+
+# --- ARCHIVOS GRANDES Y TEMPORALES ---
+*.zip
+*.tar
+*.gz
+*.7z
+*.bak
+*.tmp
+*.swp
+*.sqlite
+*.db
+*.jsonl
+
+# --- PRUEBAS Y SALIDAS ---
+tests/__pycache__/
+coverage/
+*.cover
+.pytest_cache/
+htmlcov/
+.ipynb_checkpoints/
+
+# --- CONFIGURACIÓN LOCAL ---
+*.code-workspace
+.idea/
+*.iml

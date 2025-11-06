@@ -1,0 +1,18 @@
+[
+  {
+    "nombre_empresa": "Empresa de Suplementos Alimenticios SA de CV",
+    "pais": "México",
+    "giro": "fabricante food supplements/ in-licensing",
+    "fuente": "Google",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": "No"
+  },
+  {
+    "nombre_empresa": "In-Licensing México SA de CV",
+    "pais": "México",
+    "giro": "fabricante food supplements/ in-licensing",
+    "fuente": "Kompass",
+    "sector_principal": "In-licensing",
+    "indicadores_exportacion": "Sí"
+  }
+]

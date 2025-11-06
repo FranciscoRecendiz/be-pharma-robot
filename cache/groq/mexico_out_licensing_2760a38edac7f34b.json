@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_empresa": "Laboratorios Corne",
+    "pais": "México",
+    "giro": "out-licensing",
+    "fuente": "https://corne.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  },
+  {
+    "nombre_empresa": "Faes Farma",
+    "pais": "México",
+    "giro": "out-licensing",
+    "fuente": "https://faesfarma.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "Más de 170 países"
+  },
+  {
+    "nombre_empresa": "DROMEX",
+    "pais": "México",
+    "giro": "out-licensing",
+    "fuente": "https://www.dromex.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": "No disponible"
+  }
+]

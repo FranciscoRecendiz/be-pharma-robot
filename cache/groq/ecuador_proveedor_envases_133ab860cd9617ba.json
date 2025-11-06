@@ -1,0 +1,46 @@
+[
+  {
+    "nombre_empresa": "Delta Plastic C.A.",
+    "pais": "Ecuador",
+    "giro": "proveedor (envases)",
+    "sitio_web": "https://www.deltaplastic.com.ec/",
+    "sector_principal": "proveedor_envases",
+    "indicadores_exportacion": "",
+    "fuente": "https://www.deltaplastic.com.ec/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor (envases)"
+  },
+  {
+    "nombre_empresa": "Plastiflan",
+    "pais": "Ecuador",
+    "giro": "proveedor (envases)",
+    "sitio_web": "https://plastiflan.com.ec/",
+    "sector_principal": "proveedor_envases",
+    "indicadores_exportacion": "",
+    "fuente": "https://plastiflan.com.ec/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor (envases)"
+  },
+  {
+    "nombre_empresa": "Envasur",
+    "pais": "Ecuador",
+    "giro": "proveedor (envases)",
+    "sitio_web": "https://envasur.com/",
+    "sector_principal": "proveedor_envases",
+    "indicadores_exportacion": "",
+    "fuente": "https://envasur.com/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor (envases)"
+  },
+  {
+    "nombre_empresa": "Garplast",
+    "pais": "Ecuador",
+    "giro": "proveedor (envases)",
+    "sitio_web": "https://garplast.com/",
+    "sector_principal": "proveedor_envases",
+    "indicadores_exportacion": "",
+    "fuente": "https://garplast.com/envases/farmacia-laboratorio/",
+    "query_country": "Ecuador",
+    "query_giro": "proveedor (envases)"
+  }
+]

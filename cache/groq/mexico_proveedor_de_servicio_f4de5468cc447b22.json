@@ -1,0 +1,42 @@
+[
+  {
+    "nombre_empresa": "JPL Farmacéutica Integral",
+    "pais": "México",
+    "giro": "proveedor de servicio",
+    "fuente": "https://jplfarmaceuticaintegral.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Maypo",
+    "pais": "México",
+    "giro": "proveedor de servicio",
+    "fuente": "https://www.maypo.com/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "SFE",
+    "pais": "México",
+    "giro": "proveedor de servicio",
+    "fuente": "https://www.sfe.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Pharma Select",
+    "pais": "México",
+    "giro": "proveedor de servicio",
+    "fuente": "https://pharmaselect.com.mx/",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Suplementos Mayoreo",
+    "pais": "México",
+    "giro": "proveedor de servicio",
+    "fuente": "https://suplementosmayoreo.com/",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  }
+]

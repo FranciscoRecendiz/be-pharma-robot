@@ -1,0 +1,90 @@
+[
+  {
+    "nombre_empresa": "Soria Natural",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "sorianatural.com.mx",
+    "sector_principal": "Medicina natural",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Darmacenter",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "darmacenter.com",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Birmex",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "queretaro.quadratin.com.mx",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Ubold México",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "uboldmexico.com",
+    "sector_principal": "Medicamentos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Vet's Pharma",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "vetspharma.com.mx",
+    "sector_principal": "Medicamentos veterinarios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Biorexen",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "biorexen.com.mx",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "GCAB Company",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "gcabcompany.com",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Industrias De Nutracéuticos",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "industriasdenutraceuticos.com",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "NUXGEN",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "nuxgenmexico.com",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Plantceutics",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "plantceutics.com",
+    "sector_principal": "Suplementos alimenticios",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "DEFSA",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "defsalabs.com",
+    "sector_principal": "CDMO",
+    "indicadores_exportacion": ""
+  }
+]

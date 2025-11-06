@@ -1,0 +1,82 @@
+[
+  {
+    "nombre_empresa": "Roche México",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "IsaaQuim",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://isaaquim.com/",
+    "sector_principal": "Químico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Unimat",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://unimatmexico.com.mx/",
+    "sector_principal": "Hule y plásticos",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "KMS Pharma",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://bepharma.org/BP2024+septiembre+-+lista+de+empresas+final.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Procter & Gamble",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://cosmos.bluesoft.com.br/produtos/7506195129838-absorvente-com-abas-dia-suave-always-maxi-protecao-pacote-8-unidades",
+    "sector_principal": "Productos de consumo",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Abbott Laboratorios",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://bepharma.org/Lista+de+empresas+06.01.23.pdf",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Sobax Chemicals",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://www.sobaxchemicals.com/mercado.php",
+    "sector_principal": "Químico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Tecsiquim",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "https://lineadeltiempo.mx/industria-quimica-en-mexico-2014.pdf",
+    "sector_principal": "Químico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Pharma Plus",
+    "pais": "México",
+    "giro": "distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  },
+  {
+    "nombre_empresa": "Fármacos Nacionales",
+    "pais": "México",
+    "giro": "fabricante, distribuidor",
+    "fuente": "https://www.roche.com.mx/contactenos/distribuidores-autorizados",
+    "sector_principal": "Farmacéutico",
+    "indicadores_exportacion": ""
+  }
+]

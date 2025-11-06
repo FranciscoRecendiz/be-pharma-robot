@@ -1,0 +1,35 @@
+[
+  {
+    "nombre_empresa": "Alafar Ecuador",
+    "pais": "Ecuador",
+    "giro": "nan",
+    "sitio_web": "https://alafarecuador.com/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Asociación de Laboratorios Farmacéuticos con operaciones nacionales y origen ecuatoriano, latinoamericano y europeo",
+    "fuente": "Alafar Ecuador - Asociación de Laboratorios Farmacéuticos",
+    "query_country": "Ecuador",
+    "query_giro": "nan"
+  },
+  {
+    "nombre_empresa": "Adium Ecuador",
+    "pais": "Ecuador",
+    "giro": "nan",
+    "sitio_web": "https://adium.com.ec/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Ofrece soluciones terapéuticas innovadoras y de alta calidad a médicos y pacientes en Ecuador",
+    "fuente": "Adium Ecuador - Laboratorio Farmacéutico",
+    "query_country": "Ecuador",
+    "query_giro": "nan"
+  },
+  {
+    "nombre_empresa": "Neofarmaco Ecuador",
+    "pais": "Ecuador",
+    "giro": "nan",
+    "sitio_web": "https://neofarmaco.com/",
+    "sector_principal": "fabricante_medicamentos",
+    "indicadores_exportacion": "Productos farmacéuticos que han mejorado significativamente la calidad de vida de los pacientes",
+    "fuente": "Neofarmaco Ecuador",
+    "query_country": "Ecuador",
+    "query_giro": "nan"
+  }
+]
