@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Ruta al archivo JSON (asegurate de que esté en la carpeta correcta)
-  const jsonFile = './reports/complementary_méxico_20251106.json'; // Cambia el nombre del archivo si es diferente
+  const jsonFile = './reports/complementary_méxico_20251106.json'; // Asegúrate de que el archivo esté en la carpeta correcta
   
   // Usamos fetch para obtener el archivo JSON
   fetch(jsonFile)
